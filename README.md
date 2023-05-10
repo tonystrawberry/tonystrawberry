@@ -6,8 +6,10 @@ I am working as a full-stack web developer 💻
 
 Do not hesitate to reach out to me for any inquiry. I don't bite 😆
 
-- 🔭　 I’m currently working on [Shirimono](https://shirimono.com), a comprehensive Japanese learning application.
-- 🔭 　I’m currently working on [AxieDex](https://tonystrawberry.github.io/axiedex/), an enhanced visualizer Chrome extension for Axie Infinity.
-- 📫 　How to reach me: sukikoso.jp@gmail.com
+- (OUTDATED) 🔭　 I’m currently working on [Shirimono](https://shirimono.com), a comprehensive Japanese learning application.
+- 🔭 　Currently working on [AxieDex](https://tonystrawberry.github.io/axiedex/), an enhanced visualizer Chrome extension for Axie Infinity.
+- 🎥 Follow my adventures in Japan: https://www.youtube.com/@tonyandlife
+- 📔 My tech website: https://tonystrawberry.codes/
+- 📫 　How to reach me: tony.duong.102@gmail.com
 
 See you later ✋
