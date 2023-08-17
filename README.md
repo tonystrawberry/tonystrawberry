@@ -12,11 +12,15 @@ email = "tony.duong.102@gmail.com"
 website = "https://tonystrawberry.codes/"
 favorite_language = "Ruby"
 personality_type = "Defender - ISFJ-A"
+hobbies = "Soccer・Running・Programming・Anime・Manga・Video Games"
+previous_companies = ["Seido Japan (2019)", "Overflow (2019 - 2022)", "Monstarlab Inc. (2022 - Present)"]
 ```
 
 A picture is worth a thousand words.
 
+![16 Personalities - ISFJ-A](/images/16_personalities_type.png)
 
+I am a backend engineer with a strong background in Ruby on Rails. I have been working with Ruby on Rails for the past 5 years and have recently shifted to work with AWS. I am currently working at Monstarlab Inc. as a backend engineer.
 
 
 ## 🏆 Certifications
@@ -59,4 +63,3 @@ A picture is worth a thousand words.
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
