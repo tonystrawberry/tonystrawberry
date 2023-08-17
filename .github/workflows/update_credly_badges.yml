@@ -1,8 +1,7 @@
 name: Update Credly badges
 
-on:
-  schedule:
-    - cron: "0 2 * * *"
+on: push
+
 jobs:
   update-readme:
     name: Update Readme with Credly badges
