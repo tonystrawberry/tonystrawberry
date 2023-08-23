@@ -25,6 +25,7 @@ I am a backend engineer with a strong background in Ruby on Rails. I have been w
 
 ## 🏆 Certifications
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/768429a5-a6fe-4ba6-b82b-91ff97e8dc14 "HashiCorp Certified: Terraform Associate (003)")
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/78b0a1d5-fd0e-4bb4-a111-e94977cc4649 "AWS Certified Solutions Architect – Professional")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/a5fec482-7569-458a-b7b1-46425c139245 "AWS Certified SysOps Administrator – Associate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/fe6d94bf-98ec-4de1-880d-3bdb2df8feff "AWS Certified Developer – Associate")
