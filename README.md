@@ -1,5 +1,7 @@
 # Hi, it's Tony 👨🏻‍💻
 
+<a href="https://stackoverflow.com/users/22843730/tonystrawberry"><img src="https://stackoverflow.com/users/flair/22843730.png" width="208" height="58" alt="profile for tonystrawberry at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for tonystrawberry at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ## 👨🏻‍💻 A little bit about me
 
 ```ruby
