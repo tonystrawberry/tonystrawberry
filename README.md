@@ -27,12 +27,13 @@ I am a backend engineer with a strong background in Ruby on Rails. I have been w
 
 ## 🏆 Certifications
 <!--START_SECTION:badges-->
+[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/ec94c0fe-075f-4be2-a289-1fc42dfe2cf7 "AWS Certified DevOps Engineer – Professional")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/768429a5-a6fe-4ba6-b82b-91ff97e8dc14 "HashiCorp Certified: Terraform Associate (003)")
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/78b0a1d5-fd0e-4bb4-a111-e94977cc4649 "AWS Certified Solutions Architect – Professional")
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/a5fec482-7569-458a-b7b1-46425c139245 "AWS Certified SysOps Administrator – Associate")
-[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/fe6d94bf-98ec-4de1-880d-3bdb2df8feff "AWS Certified Developer – Associate")
+[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/c6d76950-27c5-4f66-8be2-4e1db8f044b3 "AWS Certified SysOps Administrator – Associate")
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/285ae003-e487-4175-b1b2-f86e6e2386cc "AWS Certified Developer – Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/cbd4778c-044f-4b84-a1b8-9e3bebabcbec "AWS Certified Solutions Architect – Associate")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/eae2e62d-de50-4a4c-bfff-e88c39d2ef5f "AWS Certified Cloud Practitioner")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/845d9e8b-49df-4cc7-be6c-fb7029ff39be "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
 ## 📚 Technologies
