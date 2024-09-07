@@ -27,6 +27,8 @@ I am a backend engineer with a strong background in Ruby on Rails. I have been w
 
 ## 🏆 Certifications
 <!--START_SECTION:badges-->
+[![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](http://www.credly.com/badges/d400ddf2-d889-4d55-87ce-7d1967cb2d63 "AWS Certified AI Practitioner Early Adopter")
+[![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](http://www.credly.com/badges/e84b41c6-6063-4298-97d1-6639683293c1 "AWS Certified AI Practitioner")
 [![AWS Certified Data Engineer – Associate](https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](http://www.credly.com/badges/b2fe9b9a-7d30-47d5-ad06-d6a13d76ad59 "AWS Certified Data Engineer – Associate")
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/ec94c0fe-075f-4be2-a289-1fc42dfe2cf7 "AWS Certified DevOps Engineer – Professional")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/768429a5-a6fe-4ba6-b82b-91ff97e8dc14 "HashiCorp Certified: Terraform Associate (003)")
