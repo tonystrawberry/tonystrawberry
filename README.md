@@ -22,7 +22,7 @@ A picture is worth a thousand words.
 
 ![16 Personalities - ISFJ-A](/images/16_personalities_type.png)
 
-I am a backend engineer with a strong background in Ruby on Rails. I have been working with Ruby on Rails for the past 5 years and have recently shifted to work with AWS. I am currently working at Monstarlab Inc. as a backend engineer.
+I am a backend engineer with a strong background in Ruby on Rails. I have been working with Ruby on Rails since 2018. I am currently working at Spacely as a backend engineer.
 
 
 ## 🏆 Certifications
