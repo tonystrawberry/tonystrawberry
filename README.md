@@ -15,7 +15,7 @@ website = "https://tonystrawberry.codes/"
 favorite_language = "Ruby"
 personality_type = "Defender - ISFJ-A"
 hobbies = "Soccer・Running・Programming・Anime・Manga・Video Games"
-previous_companies = ["Seido Japan (2019)", "Overflow (2019 - 2022)", "Monstarlab Inc. (2022 - Present)"]
+previous_companies = ["Seido Japan (2019)", "Overflow (2019 - 2022)", "Monstarlab Inc. (2022 - 2025)", "Spacely (2025 ~]
 ```
 
 A picture is worth a thousand words.
