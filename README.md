@@ -25,6 +25,7 @@ I am a backend engineer with a strong background in Ruby on Rails. I have been w
 
 ## 🏆 Certifications
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/c0552a82-3353-437f-816d-dd1200690026" title="AWS Certified CloudOps Engineer – Associate"><img src="https://images.credly.com/size/80x80/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" alt="AWS Certified CloudOps Engineer – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/e84b41c6-6063-4298-97d1-6639683293c1" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d400ddf2-d889-4d55-87ce-7d1967cb2d63" title="AWS Certified AI Practitioner Early Adopter"><img src="https://images.credly.com/size/80x80/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS Certified AI Practitioner Early Adopter" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b2fe9b9a-7d30-47d5-ad06-d6a13d76ad59" title="AWS Certified Data Engineer – Associate"><img src="https://images.credly.com/size/80x80/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate" width="80" height="80"></a>
@@ -33,7 +34,7 @@ I am a backend engineer with a strong background in Ruby on Rails. I have been w
 <a href="https://www.credly.com/badges/c6d76950-27c5-4f66-8be2-4e1db8f044b3" title="AWS Certified SysOps Administrator – Associate"><img src="https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/285ae003-e487-4175-b1b2-f86e6e2386cc" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/cbd4778c-044f-4b84-a1b8-9e3bebabcbec" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/6bba7406-08f3-438c-a7a3-abb8151c766c" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/6f52dbc7-f604-483a-9e48-510114d0955c" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/768429a5-a6fe-4ba6-b82b-91ff97e8dc14" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
