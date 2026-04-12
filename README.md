@@ -1,7 +1,5 @@
 # Hi, it's Tony 👨🏻‍💻
 
-<a href="https://stackoverflow.com/users/22843730/tonystrawberry"><img src="https://stackoverflow.com/users/flair/22843730.png" width="208" height="58" alt="profile for tonystrawberry at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for tonystrawberry at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ## 👨🏻‍💻 A little bit about me
 
 ```ruby
@@ -14,7 +12,7 @@ email = "tony.duong.102@gmail.com"
 website = "https://tonystrawberry.codes/"
 favorite_language = "Ruby"
 personality_type = "Defender - ISFJ-A"
-hobbies = "Soccer・Running・Programming・Anime・Manga・Video Games"
+hobbies = "Soccer・Running・Programming・Anime・Manga・Pokemon"
 previous_companies = ["Seido Japan (2019)", "Overflow (2019 - 2022)", "Monstarlab Inc. (2022 - 2025)", "Spacely (2025 ~"]
 ```
 
