@@ -16,6 +16,8 @@ hobbies = "Soccer・Running・Programming・Anime・Manga・Pokemon"
 previous_companies = ["Seido Japan (2019)", "Overflow (2019 - 2022)", "Monstarlab Inc. (2022 - 2025)", "Spacely (2025 ~"]
 ```
 
+[![roadmap.sh](https://roadmap.sh/card/tall/65a72adf8240aa21a4a94773?variant=dark)](https://roadmap.sh)
+
 A picture is worth a thousand words.
 
 ![16 Personalities - ISFJ-A](/images/16_personalities_type.png)
