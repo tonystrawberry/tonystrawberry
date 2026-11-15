@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="images/irb.svg" alt="irb session: Tony Duong, backend / AWS engineer at JobTeaser, born in France, living in Japan" width="100%">
+  <img src="images/irb.svg" alt="irb session: Tony Duong, backend / AWS engineer at JobTeaser, based in France, previously in Japan" width="100%">
 </p>
 
 # Hi, it's Tony 🍓
 
 ```console
 $ whoami
-Tony Duong: backend / AWS engineer, from 🇫🇷, living in 🇯🇵
+Tony Duong: backend / AWS engineer, based in 🇫🇷 (back from 🇯🇵 since summer 2026)
 
 $ cat ~/.status
 Just joined JobTeaser (November 2026) 🎉
@@ -38,6 +38,7 @@ $ git log --oneline --reverse career
 2019  feat: join Overflow                (2019 – 2022)
 2022  feat: join Monstarlab Inc.         (2022 – 2025)
 2025  feat: join Spacely                 (2025 – 2026)
+2026  chore: move back to France 🇫🇷
 2026  feat: join JobTeaser               (HEAD -> main)
 ```
 

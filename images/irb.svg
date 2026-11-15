@@ -27,7 +27,7 @@
   <circle cx="24" cy="19" r="5.5" fill="#312620"/>
   <circle cx="42" cy="19" r="5.5" fill="#312620"/>
   <circle cx="60" cy="19" r="5.5" fill="#f8a13f"/>
-  <text x="430" y="23" text-anchor="middle" class="mono title">TONY@TOKYO — IRB</text>
+  <text x="430" y="23" text-anchor="middle" class="mono title">TONY@FRANCE — IRB</text>
 
   <!-- each line is revealed left-to-right by its own clip rect -->
   <defs>
@@ -43,7 +43,7 @@
 
   <g class="mono">
     <text x="24" y="70" clip-path="url(#l1)"><tspan class="prompt">irb&gt; </tspan><tspan class="code">tony = </tspan><tspan class="sym">Engineer</tspan><tspan class="code">.find_by(handle: </tspan><tspan class="str">"tonystrawberry"</tspan><tspan class="code">)</tspan></text>
-    <text x="24" y="96" clip-path="url(#l2)"><tspan class="out">=&gt; #&lt;Engineer name: "Tony Duong", born_in: "France", lives_in: "Japan"&gt;</tspan></text>
+    <text x="24" y="96" clip-path="url(#l2)"><tspan class="out">=&gt; #&lt;Engineer name: "Tony Duong", lives_in: "France", previously: "Japan"&gt;</tspan></text>
 
     <text x="24" y="134" clip-path="url(#l3)"><tspan class="prompt">irb&gt; </tspan><tspan class="code">tony.stack</tspan></text>
     <text x="24" y="160" clip-path="url(#l4)"><tspan class="out">=&gt; [</tspan><tspan class="sym">:ruby</tspan><tspan class="out">, </tspan><tspan class="sym">:rails</tspan><tspan class="out">, </tspan><tspan class="sym">:aws</tspan><tspan class="out">, </tspan><tspan class="sym">:terraform</tspan><tspan class="out">]</tspan></text>
