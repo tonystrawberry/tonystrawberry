@@ -31,11 +31,11 @@ I am a backend engineer with a strong background in Ruby on Rails. I have been w
 [![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/80x80/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](https://www.credly.com/badges/d400ddf2-d889-4d55-87ce-7d1967cb2d63)
 [![AWS Certified Data Engineer – Associate](https://images.credly.com/size/80x80/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](https://www.credly.com/badges/b2fe9b9a-7d30-47d5-ad06-d6a13d76ad59)
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/ec94c0fe-075f-4be2-a289-1fc42dfe2cf7)
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/78b0a1d5-fd0e-4bb4-a111-e94977cc4649)
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/c6d76950-27c5-4f66-8be2-4e1db8f044b3)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/285ae003-e487-4175-b1b2-f86e6e2386cc)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/cbd4778c-044f-4b84-a1b8-9e3bebabcbec)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/6f52dbc7-f604-483a-9e48-510114d0955c)
+[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/78b0a1d5-fd0e-4bb4-a111-e94977cc4649)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/cbd4778c-044f-4b84-a1b8-9e3bebabcbec)
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/768429a5-a6fe-4ba6-b82b-91ff97e8dc14)
 <!--END_SECTION:badges-->
 
