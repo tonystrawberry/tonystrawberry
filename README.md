@@ -16,12 +16,18 @@ irb> tony.contact
 
 ## 🛡️ How I work
 
-Defender (ISFJ-A) by personality, which shows up as:
+```ruby
+irb> tony.personality
+=> "Defender (ISFJ-A)"
 
-- **Care for the next person**: clear READMEs, runbooks and PRs.
-- **Reliability over flash**: boring, tested, works at 3 a.m.
-- **Eye for detail**: IAM policies, missing indexes, untested edge cases.
-- **Calm in incidents**: fix first, no blame.
+irb> tony.principles
+=> {
+  care_for_next_person:   "clear READMEs, runbooks and PRs",
+  reliability_over_flash: "boring, tested, works at 3 a.m.",
+  eye_for_detail:         "IAM policies, missing indexes, untested edge cases",
+  calm_in_incidents:      "fix first, no blame"
+}
+```
 
 ## 🗺️ Career
 
