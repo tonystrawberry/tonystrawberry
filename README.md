@@ -42,11 +42,27 @@ $ git log --oneline --reverse career
 2026  feat: join JobTeaser          (HEAD -> main)
 ```
 
-## 🎒 Certifications
+## 🏆 Certifications
 
-<p align="center">
-  <img src="images/trainer-card.svg" alt="Trainer card with 11 certification badges: 10 AWS and 1 HashiCorp Terraform" width="100%">
-</p>
+```ruby
+irb> tony.certifications
+=> {
+  aws: [
+    "Solutions Architect – Professional",  # 2023
+    "DevOps Engineer – Professional",      # 2023
+    "CloudOps Engineer – Associate",       # 2026
+    "Data Engineer – Associate",           # 2024
+    "Solutions Architect – Associate",     # 2023
+    "SysOps Administrator – Associate",    # 2023
+    "Developer – Associate",               # 2023
+    "AI Practitioner",                     # 2024
+    "Cloud Practitioner"                   # 2022
+  ],
+  hashicorp: [
+    "Terraform Associate (003)"            # 2023
+  ]
+}
+```
 
 ## 📚 Stack
 
