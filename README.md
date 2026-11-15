@@ -1,13 +1,26 @@
 <p align="center">
-  <img src="images/irb.svg" alt="irb session: Tony Duong, backend / AWS engineer at Spacely, born in France, living in Japan" width="100%">
+  <img src="images/irb.svg" alt="irb session: Tony Duong, backend / AWS engineer at JobTeaser, born in France, living in Japan" width="100%">
 </p>
 
 # Hi, it's Tony 🍓
 
-Backend engineer from 🇫🇷 living in 🇯🇵. I've been building with **Ruby on Rails since 2018**, and these days I spend most of my time on **AWS + Terraform** at Spacely.
-More of me at [tonystrawberry.codes](https://tonystrawberry.codes/) · ✉️ tony.duong.102@gmail.com
+```console
+$ whoami
+Tony Duong: backend / AWS engineer, from 🇫🇷, living in 🇯🇵
+
+$ cat ~/.status
+Just joined JobTeaser (November 2026) 🎉
+Ruby on Rails since 2018 · AWS + Terraform most days
+
+$ open https://tonystrawberry.codes
+$ mail tony.duong.102@gmail.com
+```
 
 ## 🛡️ How I work
+
+```console
+$ man tony
+```
 
 My personality test says **Defender (ISFJ-A)**. In practice, that means:
 
@@ -24,27 +37,28 @@ $ git log --oneline --reverse career
 2019  feat: join Seido Japan
 2019  feat: join Overflow                (2019 – 2022)
 2022  feat: join Monstarlab Inc.         (2022 – 2025)
-2025  feat: join Spacely                 (HEAD -> main)
+2025  feat: join Spacely                 (2025 – 2026)
+2026  feat: join JobTeaser               (HEAD -> main)
 ```
 
-## 🏆 Certifications
-<!--START_SECTION:badges-->
-[![AWS Certified CloudOps Engineer – Associate](https://images.credly.com/size/80x80/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob)](https://www.credly.com/badges/c0552a82-3353-437f-816d-dd1200690026)
-[![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/e84b41c6-6063-4298-97d1-6639683293c1)
-[![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/80x80/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](https://www.credly.com/badges/d400ddf2-d889-4d55-87ce-7d1967cb2d63)
-[![AWS Certified Data Engineer – Associate](https://images.credly.com/size/80x80/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](https://www.credly.com/badges/b2fe9b9a-7d30-47d5-ad06-d6a13d76ad59)
-[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/ec94c0fe-075f-4be2-a289-1fc42dfe2cf7)
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/78b0a1d5-fd0e-4bb4-a111-e94977cc4649)
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/c6d76950-27c5-4f66-8be2-4e1db8f044b3)
-[![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/285ae003-e487-4175-b1b2-f86e6e2386cc)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/cbd4778c-044f-4b84-a1b8-9e3bebabcbec)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/6f52dbc7-f604-483a-9e48-510114d0955c)
-[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/768429a5-a6fe-4ba6-b82b-91ff97e8dc14)
-<!--END_SECTION:badges-->
+## 🎒 Certifications, as a trainer card
+
+```console
+$ ls ~/certifications --as trainer-card
+```
+
+<p align="center">
+  <img src="images/trainer-card.svg" alt="Trainer card: certification badges collected so far" width="100%">
+</p>
+
+<sub>Faded badges have expired.</sub>
 
 ## 📚 Technologies
 
-### 🏃🏻‍♂️ I am confident and use these on a daily basis 
+```console
+$ bundle list --group daily
+```
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -56,7 +70,10 @@ $ git log --oneline --reverse career
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚶🏻 I have used these at work and can catch up pretty quickly
+
+```console
+$ bundle list --group used_at_work   # can catch up quickly
+```
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -69,7 +86,7 @@ $ git log --oneline --reverse career
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 <details>
-<summary><b>💻 Work environment</b></summary>
+<summary><b>💻 <code>$ neofetch</code>: work environment</b></summary>
 <br>
 
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
