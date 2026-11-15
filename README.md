@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.svg" alt="Pixel art: Tony running along the Enoshima seawall on a clear day, with a strawberry wyvern and a sea dragon flying alongside" width="100%">
+</p>
+
 # Hi, it's Tony 🍓
 
 ```ruby
