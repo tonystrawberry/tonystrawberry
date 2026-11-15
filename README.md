@@ -1,28 +1,31 @@
-# Hi, it's Tony 👨🏻‍💻
+<p align="center">
+  <img src="images/irb.svg" alt="irb session: Tony Duong, backend / AWS engineer at Spacely, born in France, living in Japan" width="100%">
+</p>
 
-## 👨🏻‍💻 A little bit about me
+# Hi, it's Tony 🍓
 
-```ruby
-name = "Tony Duong"
-nationality = "🇫🇷"
-location = "🇯🇵"
-occupation = "Backend / AWS Engineer"
-company = "Spacely"
-email = "tony.duong.102@gmail.com"
-website = "https://tonystrawberry.codes/"
-favorite_language = "Ruby"
-personality_type = "Defender - ISFJ-A"
-hobbies = "Soccer・Running・Programming・Anime・Manga・Pokemon"
-previous_companies = ["Seido Japan (2019)", "Overflow (2019 - 2022)", "Monstarlab Inc. (2022 - 2025)", "Spacely (2025 ~"]
+Backend engineer from 🇫🇷 living in 🇯🇵. I've been building with **Ruby on Rails since 2018**, and these days I spend most of my time on **AWS + Terraform** at Spacely.
+More of me at [tonystrawberry.codes](https://tonystrawberry.codes/) · ✉️ tony.duong.102@gmail.com
+
+## 🛡️ How I work
+
+My personality test says **Defender (ISFJ-A)**. In practice, that means:
+
+- **I look after the people who come next.** Clear READMEs, runbooks, and PR descriptions are part of the job, not extra.
+- **Reliability over flash.** I'd rather ship the boring, well-tested solution that still works at 3 a.m.
+- **I notice the details.** IAM policies, missing indexes, the edge case nobody wrote a test for.
+- **Calm under pressure.** Incidents are for fixing, not for blaming.
+
+## 🗺️ Career, as a `git log`
+
+```console
+$ git log --oneline --reverse career
+2018  git init ruby-on-rails
+2019  feat: join Seido Japan
+2019  feat: join Overflow                (2019 – 2022)
+2022  feat: join Monstarlab Inc.         (2022 – 2025)
+2025  feat: join Spacely                 (HEAD -> main)
 ```
-
-[![roadmap.sh](https://roadmap.sh/card/wide/65a72adf8240aa21a4a94773?variant=dark)](https://roadmap.sh)
-A picture is worth a thousand words.
-
-![16 Personalities - ISFJ-A](/images/16_personalities_type.png)
-
-I am a backend engineer with a strong background in Ruby on Rails. I have been working with Ruby on Rails since 2018. I am currently working at Spacely as a backend engineer.
-
 
 ## 🏆 Certifications
 <!--START_SECTION:badges-->
@@ -65,9 +68,14 @@ I am a backend engineer with a strong background in Ruby on Rails. I have been w
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-## 💻 Work Environment
+<details>
+<summary><b>💻 Work environment</b></summary>
+<br>
+
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+</details>
