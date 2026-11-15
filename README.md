@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.svg" alt="Pixel art: Tony running along the Enoshima seawall on a clear day, with a strawberry wyvern and a sea dragon flying alongside" width="100%">
+  <img src="images/banner.svg" alt="Pixel art: Tony cycling along the Enoshima seawall past children, dogs and Japanese flags, with boats at sea and two dragons flying alongside" width="100%">
 </p>
 
 # Hi, it's Tony 🍓
