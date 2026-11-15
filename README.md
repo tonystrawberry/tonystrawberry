@@ -1,73 +1,77 @@
-# Hi, it's Tony 👨🏻‍💻
+<p align="center">
+  <img src="images/banner.svg" alt="Pixel art: Tony cycling along the Enoshima seawall past children, dogs and Japanese flags, with boats at sea and two dragons flying alongside" width="100%">
+</p>
 
-## 👨🏻‍💻 A little bit about me
+# Hi, it's Tony 🍓
 
 ```ruby
-name = "Tony Duong"
-nationality = "🇫🇷"
-location = "🇯🇵"
-occupation = "Backend / AWS Engineer"
-company = "Spacely"
-email = "tony.duong.102@gmail.com"
-website = "https://tonystrawberry.codes/"
-favorite_language = "Ruby"
-personality_type = "Defender - ISFJ-A"
-hobbies = "Soccer・Running・Programming・Anime・Manga・Pokemon"
-previous_companies = ["Seido Japan (2019)", "Overflow (2019 - 2022)", "Monstarlab Inc. (2022 - 2025)", "Spacely (2025 ~"]
+irb> tony = Engineer.find_by(handle: "tonystrawberry")
+=> #<Engineer name: "Tony Duong", role: "Backend / AWS", lives_in: "France", previously: "Japan">
+
+irb> tony.currently
+=> "Engineer @ JobTeaser (since Nov 2026)"
+
+irb> tony.off_hours
+=> ["⚽ soccer", "🏃 running", "🎮 Pokémon", "📺 anime & manga"]
+
+irb> tony.contact
+=> { web: "tonystrawberry.codes", mail: "tony.duong.102@gmail.com" }
 ```
 
-[![roadmap.sh](https://roadmap.sh/card/wide/65a72adf8240aa21a4a94773?variant=dark)](https://roadmap.sh)
-A picture is worth a thousand words.
+## 🛡️ How I work
 
-![16 Personalities - ISFJ-A](/images/16_personalities_type.png)
+```ruby
+irb> tony.personality
+=> "Defender (ISFJ-A)"
 
-I am a backend engineer with a strong background in Ruby on Rails. I have been working with Ruby on Rails since 2018. I am currently working at Spacely as a backend engineer.
+irb> tony.principles
+=> {
+  care_for_next_person:   "clear READMEs, runbooks and PRs",
+  reliability_over_flash: "boring, tested, works at 3 a.m.",
+  eye_for_detail:         "IAM policies, missing indexes, untested edge cases",
+  calm_in_incidents:      "fix first, no blame"
+}
+```
 
+## 🗺️ Career
+
+```console
+$ git log --oneline --reverse career
+2018  git init ruby-on-rails
+2019  feat: join Seido Japan
+2019  feat: join Overflow           (2019 – 2022)
+2022  feat: join Monstarlab Inc.    (2022 – 2025)
+2025  feat: join Spacely            (2025 – 2026)
+2026  chore: move back to France 🇫🇷
+2026  feat: join JobTeaser          (HEAD -> main)
+```
 
 ## 🏆 Certifications
-<!--START_SECTION:badges-->
-[![AWS Certified CloudOps Engineer – Associate](https://images.credly.com/size/80x80/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob)](https://www.credly.com/badges/c0552a82-3353-437f-816d-dd1200690026)
-[![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/e84b41c6-6063-4298-97d1-6639683293c1)
-[![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/80x80/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](https://www.credly.com/badges/d400ddf2-d889-4d55-87ce-7d1967cb2d63)
-[![AWS Certified Data Engineer – Associate](https://images.credly.com/size/80x80/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](https://www.credly.com/badges/b2fe9b9a-7d30-47d5-ad06-d6a13d76ad59)
-[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/ec94c0fe-075f-4be2-a289-1fc42dfe2cf7)
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/c6d76950-27c5-4f66-8be2-4e1db8f044b3)
-[![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/285ae003-e487-4175-b1b2-f86e6e2386cc)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/6f52dbc7-f604-483a-9e48-510114d0955c)
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/78b0a1d5-fd0e-4bb4-a111-e94977cc4649)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/cbd4778c-044f-4b84-a1b8-9e3bebabcbec)
-[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/768429a5-a6fe-4ba6-b82b-91ff97e8dc14)
-<!--END_SECTION:badges-->
 
-## 📚 Technologies
+```ruby
+irb> tony.certifications
+=> {
+  aws: [
+    "Solutions Architect – Professional",  # 2023
+    "DevOps Engineer – Professional",      # 2023
+    "CloudOps Engineer – Associate",       # 2026
+    "Data Engineer – Associate",           # 2024
+    "Solutions Architect – Associate",     # 2023
+    "SysOps Administrator – Associate",    # 2023
+    "Developer – Associate",               # 2023
+    "AI Practitioner",                     # 2024
+    "Cloud Practitioner"                   # 2022
+  ],
+  hashicorp: [
+    "Terraform Associate (003)"            # 2023
+  ]
+}
+```
 
-### 🏃🏻‍♂️ I am confident and use these on a daily basis 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 📚 Stack
 
-### 🚶🏻 I have used these at work and can catch up pretty quickly
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-## 💻 Work Environment
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+```ruby
+daily        = %w[ruby rails aws terraform javascript html css npm heroku github]
+used_at_work = %w[vue react typescript tailwindcss bootstrap gatsby webpack node python graphql]
+setup        = %w[macos vscode notion slack apple-music]
+```
