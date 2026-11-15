@@ -52,8 +52,6 @@ $ ls ~/certifications --as trainer-card
   <img src="images/trainer-card.svg" alt="Trainer card: certification badges collected so far" width="100%">
 </p>
 
-<sub>Faded badges have expired.</sub>
-
 ## 📚 Technologies
 
 ```console
